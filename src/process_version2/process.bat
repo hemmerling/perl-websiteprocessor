@@ -36,7 +36,7 @@ rem * See the License for the specific language governing permissions
 rem * and limitations under the License.
 rem *
 rem * Last updates: 2001-07-14
-rem *               2008-02-04 ( "Microsoft Vista ready" ),
+rem *               2008-02-04 ( "Microsoft Vista ready" )
 rem *               2009-08-24 ( "htdocs" )
 rem *
 pushd
